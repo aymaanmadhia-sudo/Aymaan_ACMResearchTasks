@@ -25,5 +25,5 @@ python3 transform_logs.py
 ```
 
 This runs the built-in test cases and prints the input/output for each.
-you can even use it on your own text after two text.
+you can even use it on your own text after two example.
 
