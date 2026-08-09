@@ -13,8 +13,7 @@ Task.
   Understanding Basic Neural Networks" by Lindah Sumbati.
 - **task2/** — `paper_summary.md`: summary of "How to Read a Paper" by
   S. Keshav, and how I plan to apply the three-pass method.
-## bonus
-- **eda.ipynb** – Exploratory Data Analysis (EDA) on the Netflix Movies and TV Shows dataset. Includes data cleaning, handling missing values, analysis of content types, ratings, release years, countries, genres, and visualizations to identify trends in Netflix content.
+- **bonus/** → `eda.ipynb`: Exploratory Data Analysis (EDA) of the Netflix dataset, including data cleaning, visualization, and insight generation.
 
 ## How to run Task 0
 
